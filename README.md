@@ -14,4 +14,4 @@ Copyright © 2026 TienHsien LIU. All rights reserved. 本軟體為專有軟體�
 
 ## 安裝
 
-下載 `setup.zip`，解壓縮後雙擊 `SETUP安裝軟體.bat`。需安裝 Python 3.10 以上（建議 3.12，含 Tcl/Tk）。首次啟動會自動安裝必要套件，並在桌面及軟體資料夾建立使用主題圖示的捷徑。`client.zip` 僅供程式自動更新。
+下載 `setup.zip`，解壓縮後雙擊 `SETUP安裝軟體.bat`。如果已安裝 Python Install Manager 但尚無 Python，安裝檔會嘗試安裝 Python 3.12。首次啟動會自動安裝必要套件，並在桌面及軟體資料夾建立主題圖示捷徑。需網路連線完成首次安裝。 `client.zip` 僅供程式自動更新。
