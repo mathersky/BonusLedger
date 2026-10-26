@@ -2,11 +2,11 @@
   "payload": {
     "version": "1.8.1",
     "asset": "client.zip",
-    "sha256": "591b1f683903e053f9614ddc78057c298a96f3b93e839b327aa7b34c554b12f2",
+    "sha256": "cc2c72fe45e9a41e81d86648e87d119bb5325222693a1bb9e087f1087a03ab17",
     "setup_asset": "setup.zip",
-    "setup_sha256": "8d69ada9f299f5811d1bedf37890300f86aac3de95ad6a9f4db05cd20efb6f7b",
-    "notes": "修正 Windows 安裝批次檔換行與 Python Install Manager 偵測；首次啟動會自動安裝 Python 3.12。",
-    "published_at": "2026-10-26T12:25:35+00:00"
+    "setup_sha256": "cba3fcf05fb34086d92e57f8322cc59d5f5f06843369b76a1c81c83774911670",
+    "notes": "授權版更新：首次安裝提供 3 個月試用；保留本機資料並驗證更新簽章。",
+    "published_at": "2026-10-26T12:51:05+00:00"
   },
-  "signature": "MNzMDgZQxvwOyYR1zGA3ZXMUYWpMqFBnbUNF43HDdW6gUK0Jo2gHpEKCuQM5WMGKBf4NgjhzVuTY0fcp5kmkDg=="
+  "signature": "U95vRsdmwj1E6OCKfY+sBVOlM94t1MnmdluXswxov4/pVrDRz1bQe8VOVVsjweJA23z27qlsfBl6jPTzp/7GDQ=="
 }
