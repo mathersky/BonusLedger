@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "version": "1.8.0",
+    "asset": "client.zip",
+    "sha256": "65a5b92ab0eb47cc2453e7bee18b5982c18e856e152473d1105032217e622147",
+    "setup_asset": "setup.zip",
+    "setup_sha256": "3d2ca9e55aa78cf22cdf114c9522ab35a8757d7fb371e751633ef23ed224d04f",
+    "notes": "首次安裝提供 3 個月試用；主控端可簽發 1 個月、3 個月、1 年或永久授權。新增授權管理、雙捷徑與主題圖示，保留簽章自動更新。",
+    "published_at": "2026-10-26T12:12:55+00:00"
+  },
+  "signature": "gPDubYERo0B1IVBv7KjIwZQ55Cx1EMRyEi9tdNnXii8VueT+u1C1p2aTc7nGvkEo+ujHl8O5cCibRCu0vj+wCA=="
+}
